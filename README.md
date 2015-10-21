@@ -5,3 +5,4 @@ Share your favorite movie and give us a review of why you love it. On the other 
 * [Oculus](https://github.com/caledelaura/moviereviews/blob/master/oculus)
 * [The Nightmare Before Christmas](https://github.com/caledelaura/moviereviews/blob/master/thenightmarebeforechristmas)
 * [Inception](https://github.com/caledelaura/moviereviews/blob/master/inception)
+* [Crimson Peak](https://github.com/caledelaura/moviereviews/blob/master/crimsonpeak)
