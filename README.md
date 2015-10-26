@@ -1,5 +1,8 @@
 # moviereviews
-Share your favorite movie and give us a review of why you love it. On the other hand share a movie you weren't a fan of and give us some reasons why.
+Follow formatting of past reviews and using [IMDb](http://www.imdb.com/?ref_=nv_home) to get cast, rating, year, and genre
+information. After completing the review add the link to the README.md. When naming your file be sure to use all lower case with
+no spaces to create consistency. Share your favorite movie and give us a review of why you love it. On the other hand share a
+movie you weren't a fan of and give us some reasons why.
 
 * [Trainwreck](https://github.com/caledelaura/moviereviews/blob/master/trainwreck)
 * [Oculus](https://github.com/caledelaura/moviereviews/blob/master/oculus)
