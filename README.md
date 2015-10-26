@@ -13,3 +13,4 @@ movie you weren't a fan of and give us some reasons why.
 * [The Martian](https://github.com/caledelaura/moviereviews/blob/master/themartian)
 * [Avatar](https://github.com/caledelaura/moviereviews/blob/master/Avatar.txt)
 * [The Seven Brides for Seven Brothers] (https://github.com/caledelaura/moviereviews/blob/master/sevenbridesforsevenbrothers.txt)
+* [Interstellar](https://github.com/caledelaura/moviereviews/blob/master/Interstellar)
